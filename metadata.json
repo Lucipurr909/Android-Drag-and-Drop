@@ -1,0 +1,6 @@
+{
+  "name": "Android App Maker",
+  "description": "Drag-and-drop visual Android app creator with clean Jetpack Compose Kotlin source code generation, real-time Material 3 device simulator, and full Android Studio Gradle workspace exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
